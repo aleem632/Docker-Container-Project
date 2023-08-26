@@ -32,9 +32,10 @@ Deployment process will be much quick as deployment will be done using container
 
 ![DOCKER COMPOSE](https://github.com/aleem632/docker/blob/9c89a5adfd039d2881912037645af7bf89d59ee9/Diagram/Docker-Compose.png)
 
-TOOLS 
+# TOOLS 
 
 Docker 
+
 Docker composer 
 
 # Execution Steps
